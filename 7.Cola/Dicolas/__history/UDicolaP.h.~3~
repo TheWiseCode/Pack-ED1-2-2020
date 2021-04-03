@@ -1,0 +1,28 @@
+// ---------------------------------------------------------------------------
+
+#ifndef UDiDicolaPH
+#define UDiDicolaPH
+// ---------------------------------------------------------------------------
+#include <iostream>
+#include <string>
+#include "Funciones.h"
+
+struct NodoC {
+	int elemento;
+	NodoC* sig;
+};
+
+class DicolaP {
+private:
+	NodoC* ini;
+	NodoC* fin;
+
+public:
+	DicolaP();
+	bool vacia();
+	void poner(int e);
+	void sacar(int &e);
+	int primero();
+	string to_str();
+};
+#endif

@@ -1,0 +1,23 @@
+// ---------------------------------------------------------------------------
+
+#ifndef UColaPrioridadH
+#define UColaPrioridadH
+// ---------------------------------------------------------------------------
+#include <iostream>
+#include <string>
+#include "Funciones.h"
+
+using namespace std;
+
+class ColaPrioridad {
+private:
+public:
+	ColaPrioridad();
+	bool vacia();
+	int primero();
+	void poner(int e, int prior);
+	void sacar(int &e);
+	void asignar_frec_prioridad();
+	string to_str();
+};
+#endif

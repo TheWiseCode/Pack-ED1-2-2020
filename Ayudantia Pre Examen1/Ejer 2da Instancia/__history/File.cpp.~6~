@@ -1,0 +1,14 @@
+#include <iostream>
+#include "UPoliLP.h"
+
+
+using namespace std;
+
+int main()
+{
+	PoliLP* p = new PoliP();
+	p->poner_termino(4, 3);
+	cout <<
+	system("pause");
+	return 0;
+}

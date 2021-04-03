@@ -1,0 +1,34 @@
+// ---------------------------------------------------------------------------
+
+#pragma hdrstop
+
+#include "UDicolaPila.h"
+// ---------------------------------------------------------------------------
+#pragma package(smart_init)
+
+DicolaPila::DicolaPila() {
+}
+
+bool DicolaPila::vacia() {
+}
+
+void DicolaPila::poner(int e) {
+}
+
+void DicolaPila::sacar(int &e) {
+}
+
+int DicolaPila::primero() {
+}
+
+int DicolaPila::ultimo() {
+}
+
+void DicolaPila::poner_frente(int e) {
+}
+
+void DicolaPila::sacar_final(int &e) {
+}
+
+string DicolaPila::to_str() {
+}

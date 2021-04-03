@@ -1,0 +1,29 @@
+#include <iostream>
+#include "UPilaL.h"
+#include "UPilaV.h"
+#include "UPilaP.h"
+#include "UPilaS.h"
+#include "UMemoria.h"
+
+using namespace std;
+
+int main() {
+	CSMemoria* mem = new CSMemoria();
+	mem->new_espacio("perro,gato,gallina");
+	PilaS *p = new PilaS();
+	p->meter(1);
+	p->meter(2);
+	p->meter(20);
+	p->meter(7);
+	p->meter(2);
+	p->meter(10);
+	cout << p->to_str() << endl;
+	cout << p->cima() << endl;
+	while (!p->vacia()) {
+		int e;
+		p->sacar(e);
+		cout << p->to_str() << endl;
+	}
+	system("pause");
+	return 0;
+}

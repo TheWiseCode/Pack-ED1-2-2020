@@ -1,0 +1,34 @@
+//---------------------------------------------------------------------------
+
+#ifndef UConjLH
+#define UConjLH
+//---------------------------------------------------------------------------
+#include <iostream>
+#include <string>
+#include "UListaP.h"
+
+using namespace std;
+/*
+Clase Conjunto
+ Atributos
+ Elem : Lista
+ Metodos
+ Crear()
+booleano vacío ()
+booleano pertenece (Elemento e)
+inserta (Elemento e)
+entero cardinal ()
+entero ordinal (elemento e)
+suprime (Elemento e)
+Elemento muestrea ()
+ fin definición clase
+ */
+ class ConjuntoL{
+	private:
+		ListaP elem;
+	public:
+		ConjuntoL();
+		bool vacio();
+		bool pertenece(int e);
+ };
+#endif

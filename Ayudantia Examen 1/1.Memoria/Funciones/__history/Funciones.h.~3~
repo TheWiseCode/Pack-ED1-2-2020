@@ -1,0 +1,17 @@
+// ---------------------------------------------------------------------------
+
+#ifndef FuncionesH
+#define FuncionesH
+// ---------------------------------------------------------------------------
+
+string to_string(int valor) {
+
+}
+
+string rellenar(string s, char caracter, unsigned int cantidad) {
+}
+
+string repetir(char caracter, unsigned int cantidad) {
+
+}
+#endif

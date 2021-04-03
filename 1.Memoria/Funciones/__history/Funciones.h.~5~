@@ -1,0 +1,25 @@
+// ---------------------------------------------------------------------------
+
+#ifndef FuncionesH
+#define FuncionesH
+// ---------------------------------------------------------------------------
+
+#include <iostream>
+#include <string>
+using namespace std;
+
+string to_string(int valor) {
+
+}
+
+string rellenar(string s, char caracter, unsigned int cantidad) {
+	if (cantidad <= s.length())
+		return s;
+	int relleno = cantidad - s.length();
+	return repetir(caracter, cantidad) + s;
+}
+
+string repetir(char caracter, unsigned int cantidad) {
+	return std::string(cantidad, caracter);
+}
+#endif

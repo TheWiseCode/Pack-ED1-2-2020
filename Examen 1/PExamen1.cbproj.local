@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/01/16 18:08:10.004,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/01/16 18:08:10.134,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2021/01/16 18:09:18.231,C:\Users\pc\Documents\Embarcadero\Studio\Projects\main.cpp=C:\Users\pc\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2021/01/16 18:09:24.235,C:\Users\pc\Documents\Embarcadero\Studio\Projects\PExamen1PCH1.h=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/01/16 18:09:24.243,C:\Users\pc\Documents\Embarcadero\Studio\Projects\PExamen1.cbproj=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2021/01/16 18:09:53.838,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Examen 1\main.cpp=C:\Users\pc\Documents\Embarcadero\Studio\Projects\main.cpp</Transaction>
+    <Transaction>2021/01/16 18:09:57.639,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Examen 1\PExamen1PCH1.h=C:\Users\pc\Documents\Embarcadero\Studio\Projects\PExamen1PCH1.h</Transaction>
+    <Transaction>2021/01/16 18:09:59.833,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Examen 1\PExamen1.cbproj=C:\Users\pc\Documents\Embarcadero\Studio\Projects\PExamen1.cbproj</Transaction>
+    <Transaction>2021/01/16 18:10:12.588,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Examen 1\Clases\Funciones.cpp</Transaction>
+    <Transaction>2021/01/16 18:10:12.680,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Examen 1\Clases\UMemoria.cpp</Transaction>
+    <Transaction>2021/01/16 18:10:19.943,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Examen 1\Conjuntos\UConjL.cpp</Transaction>
+    <Transaction>2021/01/16 18:10:20.035,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Examen 1\Conjuntos\UConjP.cpp</Transaction>
+    <Transaction>2021/01/16 18:10:20.086,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Examen 1\Conjuntos\UConjS.cpp</Transaction>
+    <Transaction>2021/01/16 18:10:20.137,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Examen 1\Conjuntos\UConjV.cpp</Transaction>
+    <Transaction>2021/01/16 18:10:26.604,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Examen 1\Listas\UListaP.cpp</Transaction>
+    <Transaction>2021/01/16 18:10:26.651,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Examen 1\Listas\UListaS.cpp</Transaction>
+    <Transaction>2021/01/16 18:10:26.702,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Examen 1\Listas\UListaV.cpp</Transaction>
+    <Transaction>2021/01/16 18:10:33.926,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Examen 1\Polinomios\UPoliL.cpp</Transaction>
+    <Transaction>2021/01/16 18:10:33.992,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Examen 1\Polinomios\UPoliLP.cpp</Transaction>
+    <Transaction>2021/01/16 18:10:34.058,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Examen 1\Polinomios\UPoliP.cpp</Transaction>
+    <Transaction>2021/01/16 18:10:34.115,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Examen 1\Polinomios\UPoliS.cpp</Transaction>
+    <Transaction>2021/01/16 18:10:34.178,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Examen 1\Polinomios\UPoliV.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

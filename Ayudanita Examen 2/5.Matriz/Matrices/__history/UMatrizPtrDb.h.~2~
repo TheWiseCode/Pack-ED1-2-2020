@@ -1,0 +1,47 @@
+//---------------------------------------------------------------------------
+
+#ifndef UMatrizPtrDbH
+#define UMatrizPtrDbH
+//---------------------------------------------------------------------------
+#include <iostream>
+#include <string>
+#include "Funciones.h"
+
+using namespace std;
+
+struct NodoMc{
+    int col;
+    int dato;
+    NodoMc* sigC;
+};
+
+struct NodoMf{
+    int fil;
+    NodoMf* antF;
+    NodoMf* sigF;
+    NodoMc* ptrCol;
+};
+
+
+class MatrizPD{
+    private:
+        NodoMf* ptrFil;
+		int repe, df, dc;
+		int nt;
+
+        NodoMc* buscar(int f, int c);
+        NodoMf* buscar(int f);
+		NodoMf* posicionIns(int f);
+		void suprimir(NodoMf* dirFil, NodoMc* dirCol);
+    public:
+        MatrizPD();
+        void dimensionar(int f,int c);
+        int dimension_fila();
+        int dimension_columna();
+        void poner(int f, int c, int valor);
+        int elemento(int f, int c);
+        void definir_valor_repetido(int valor);
+        string to_str();
+
+};
+#endif

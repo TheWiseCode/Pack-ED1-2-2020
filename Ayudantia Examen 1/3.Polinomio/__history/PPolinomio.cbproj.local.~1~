@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/18 22:17:37.000.866,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2020/12/18 22:17:37.000.792,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/12/18 22:18:12.000.405,C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\pc\Documents\Embarcadero\Studio\Projects\PPolinomio.cbproj</Transaction>
+    <Transaction>2020/12/18 22:18:12.000.354,C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\pc\Documents\Embarcadero\Studio\Projects\PPolinomioPCH1.h</Transaction>
+    <Transaction>2020/12/18 22:18:17.000.541,C:\Users\pc\Documents\Embarcadero\Studio\Projects\File2.cpp=C:\Users\pc\Documents\Embarcadero\Studio\Projects\FMenu.cpp</Transaction>
+    <Transaction>2020/12/18 22:18:34.000.544,C:\Users\pc\Documents\Embarcadero\Studio\Projects\FMenu.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\FMenu.cpp</Transaction>
+    <Transaction>2020/12/18 22:18:37.000.929,C:\Users\pc\Documents\Embarcadero\Studio\Projects\PPolinomioPCH1.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\PPolinomioPCH1.h</Transaction>
+    <Transaction>2020/12/18 22:18:40.000.851,C:\Users\pc\Documents\Embarcadero\Studio\Projects\PPolinomio.cbproj=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\PPolinomio.cbproj</Transaction>
+    <Transaction>2020/12/18 22:19:42.000.875,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Clases\UMemoria.cpp</Transaction>
+    <Transaction>2020/12/18 22:19:42.000.852,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Clases\Funciones.cpp</Transaction>
+    <Transaction>2020/12/18 22:19:52.000.367,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Listas\UListaP.cpp</Transaction>
+    <Transaction>2020/12/18 22:19:52.000.509,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Listas\UListaV.cpp</Transaction>
+    <Transaction>2020/12/18 22:19:52.000.432,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Listas\UListaS.cpp</Transaction>
+    <Transaction>2020/12/18 22:20:14.000.909,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Unit1.cpp</Transaction>
+    <Transaction>2020/12/18 22:20:22.000.291,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Unit1.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UPoliV.h</Transaction>
+    <Transaction>2020/12/18 22:20:22.000.291,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Unit1.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UPoliV.cpp</Transaction>
+    <Transaction>2020/12/18 22:20:30.000.269,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UPoliV.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Polinomios\UPoliV.cpp</Transaction>
+    <Transaction>2020/12/18 22:20:30.000.269,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UPoliV.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Polinomios\UPoliV.h</Transaction>
+    <Transaction>2020/12/18 23:19:34.000.603,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Unit1.cpp</Transaction>
+    <Transaction>2020/12/18 23:19:41.000.634,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Unit1.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UPoliL.h</Transaction>
+    <Transaction>2020/12/18 23:19:41.000.634,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Unit1.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UPoliL.cpp</Transaction>
+    <Transaction>2020/12/18 23:19:48.000.421,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UPoliL.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Polinomios\UPoliL.h</Transaction>
+    <Transaction>2020/12/18 23:19:48.000.421,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UPoliL.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Polinomios\UPoliL.cpp</Transaction>
+    <Transaction>2020/12/19 00:10:51.000.797,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Unit1.cpp</Transaction>
+    <Transaction>2020/12/19 00:11:00.000.689,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Unit1.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UListaLP.h</Transaction>
+    <Transaction>2020/12/19 00:11:00.000.689,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Unit1.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UListaLP.cpp</Transaction>
+    <Transaction>2020/12/19 00:11:11.000.115,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UListaLP.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UPoliLP.h</Transaction>
+    <Transaction>2020/12/19 00:11:11.000.115,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UListaLP.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UPoliLP.cpp</Transaction>
+    <Transaction>2020/12/19 00:11:15.000.892,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UPoliLP.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Polinomios\UPoliLP.h</Transaction>
+    <Transaction>2020/12/19 00:11:15.000.892,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UPoliLP.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Polinomios\UPoliLP.cpp</Transaction>
+    <Transaction>2020/12/19 15:01:57.958,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Unit1.cpp</Transaction>
+    <Transaction>2020/12/19 15:02:04.011,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UPoliP.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Unit1.cpp</Transaction>
+    <Transaction>2020/12/19 15:02:04.011,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UPoliP.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Unit1.h</Transaction>
+    <Transaction>2020/12/19 15:02:14.484,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Polinomios\UPoliP.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UPoliP.cpp</Transaction>
+    <Transaction>2020/12/19 15:02:14.484,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Polinomios\UPoliP.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UPoliP.h</Transaction>
+    <Transaction>2020/12/19 15:54:11.436,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Unit1.cpp</Transaction>
+    <Transaction>2020/12/19 15:54:16.827,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UPoliS.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Unit1.h</Transaction>
+    <Transaction>2020/12/19 15:54:16.827,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UPoliS.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Unit1.cpp</Transaction>
+    <Transaction>2020/12/19 15:54:23.756,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Polinomios\UPoliS.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UPoliS.cpp</Transaction>
+    <Transaction>2020/12/19 15:54:23.756,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\Polinomios\UPoliS.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\3.Polinomio\UPoliS.h</Transaction>
+  </Transactions>
+</BorlandProject>

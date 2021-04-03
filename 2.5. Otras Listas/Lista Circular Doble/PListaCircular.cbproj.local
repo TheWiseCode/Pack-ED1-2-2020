@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/12/15 13:31:34.308,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/12/15 13:31:34.418,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2020/12/15 13:32:11.287,C:\Users\pc\Documents\Embarcadero\Studio\Projects\FMain.cpp=C:\Users\pc\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2020/12/15 13:32:21.014,C:\Users\pc\Documents\Embarcadero\Studio\Projects\PListaCircularPCH1.h=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/12/15 13:32:21.018,C:\Users\pc\Documents\Embarcadero\Studio\Projects\PListaCircular.cbproj=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2020/12/15 13:32:24.184,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/12/15 13:32:28.291,C:\Users\pc\Documents\Embarcadero\Studio\Projects\ULista.h=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2020/12/15 13:32:28.291,C:\Users\pc\Documents\Embarcadero\Studio\Projects\ULista.cpp=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/12/15 14:09:43.311,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.5. Otras Listas\Lista Circular Doble\FMain.cpp=C:\Users\pc\Documents\Embarcadero\Studio\Projects\FMain.cpp</Transaction>
+    <Transaction>2020/12/15 14:09:44.907,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.5. Otras Listas\Lista Circular Doble\ULista.cpp=C:\Users\pc\Documents\Embarcadero\Studio\Projects\ULista.cpp</Transaction>
+    <Transaction>2020/12/15 14:09:44.907,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.5. Otras Listas\Lista Circular Doble\ULista.h=C:\Users\pc\Documents\Embarcadero\Studio\Projects\ULista.h</Transaction>
+    <Transaction>2020/12/15 14:09:46.566,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.5. Otras Listas\Lista Circular Doble\PListaCircularPCH1.h=C:\Users\pc\Documents\Embarcadero\Studio\Projects\PListaCircularPCH1.h</Transaction>
+    <Transaction>2020/12/15 14:09:47.867,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.5. Otras Listas\Lista Circular Doble\PListaCircular.cbproj=C:\Users\pc\Documents\Embarcadero\Studio\Projects\PListaCircular.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,13 @@
+//---------------------------------------------------------------------------
+
+#ifndef UConjVH
+#define UConjVH
+//---------------------------------------------------------------------------
+#include <iostream>
+#include <string>
+#include "UListaP.h"
+
+#include <stdlib.h>
+#include <time.h>
+
+#endif

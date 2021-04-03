@@ -1,0 +1,13 @@
+//---------------------------------------------------------------------------
+
+#ifndef UColaLH
+#define UColaLH
+//---------------------------------------------------------------------------
+#include <iostream>
+#include <string>
+#include "Funciones.h"
+
+using namespace std;
+
+
+#endif

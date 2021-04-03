@@ -1,0 +1,25 @@
+// ---------------------------------------------------------------------------
+
+#ifndef UColaLH
+#define UColaLH
+// ---------------------------------------------------------------------------
+#include <iostream>
+#include <string>
+#include "Funciones.h"
+#include "UListaV.h"
+
+using namespace std;
+
+class ColaL {
+private:
+	ListaV* L;
+
+public:
+	ColaL();
+	virtual bool vacia();
+	virtual void poner(int e);
+	virtual void sacar(int &e);
+	virtual int primero();
+	virtual string to_str();
+};
+#endif

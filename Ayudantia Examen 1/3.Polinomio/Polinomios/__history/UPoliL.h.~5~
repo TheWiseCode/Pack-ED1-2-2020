@@ -1,0 +1,43 @@
+// ---------------------------------------------------------------------------
+
+#ifndef UPoliLH
+#define UPoliLH
+// ---------------------------------------------------------------------------
+#include <iostream>
+#include <string>
+#include "Funciones.h"
+#include "UListaS.h"
+#include "UListaV.h"
+
+using namespace std;
+/*
+ Definiendo la Polinomio
+ Tipo de Datos
+ Clase Polinomio
+ Atributos
+ Pol : Lista
+ Metodos
+ Privado
+ Direccion BuscarExponente(Exp Entero)
+ Direccion BuscarTerminoN(I : Entero)
+ Publico
+ crea ()
+ Booleano EsCero()
+ Entero Grado()
+ Entero coeficiente ( Exp : Entero)
+ AsignarCoeficiente (coef,exp: Entero)
+ poner_termino( coef, exp : entero)
+ Entero numero_terminos()
+ Entero exponente ( nroter: entero)
+ sumar(P1, P2: Polinomio)
+ restar(P1, P2: Polinomio)
+ multiplicar (P1, P2: Polinomio)
+ fin definición clase */
+
+ class PoliL{
+	 private:
+	 	ListaS* pol;
+	 public:
+
+ };
+#endif

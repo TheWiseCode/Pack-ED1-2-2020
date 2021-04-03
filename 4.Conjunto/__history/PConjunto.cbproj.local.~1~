@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/09 14:05:02.000.355,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2021/01/09 14:05:02.000.191,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/01/09 14:05:49.000.046,C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\pc\Documents\Embarcadero\Studio\Projects\PConjunto.cbproj</Transaction>
+    <Transaction>2021/01/09 14:05:49.000.040,C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\pc\Documents\Embarcadero\Studio\Projects\PConjuntoPCH1.h</Transaction>
+    <Transaction>2021/01/09 14:05:54.000.313,C:\Users\pc\Documents\Embarcadero\Studio\Projects\File2.cpp=C:\Users\pc\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2021/01/09 14:06:22.000.504,C:\Users\pc\Documents\Embarcadero\Studio\Projects\File1.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\File1.cpp</Transaction>
+    <Transaction>2021/01/09 14:06:26.000.218,C:\Users\pc\Documents\Embarcadero\Studio\Projects\PConjuntoPCH1.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\PConjuntoPCH1.h</Transaction>
+    <Transaction>2021/01/09 14:06:30.000.472,C:\Users\pc\Documents\Embarcadero\Studio\Projects\PConjunto.cbproj=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\PConjunto.cbproj</Transaction>
+    <Transaction>2021/01/09 14:06:49.000.567,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Unit1.cpp</Transaction>
+    <Transaction>2021/01/09 14:06:59.000.874,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Unit1.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\UConjL.cpp</Transaction>
+    <Transaction>2021/01/09 14:06:59.000.874,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Unit1.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\UConjL.h</Transaction>
+    <Transaction>2021/01/09 14:08:20.000.535,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Listas\UListaV.cpp</Transaction>
+    <Transaction>2021/01/09 14:08:20.000.392,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Listas\UListaP.cpp</Transaction>
+    <Transaction>2021/01/09 14:08:20.000.469,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Listas\UListaS.cpp</Transaction>
+    <Transaction>2021/01/09 14:08:20.000.277,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Listas\ULista.cpp</Transaction>
+    <Transaction>2021/01/09 14:08:27.000.225,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Listas\ULista.cpp=</Transaction>
+    <Transaction>2021/01/09 14:08:35.000.920,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Clases\Funciones.cpp</Transaction>
+    <Transaction>2021/01/09 14:08:36.000.127,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Clases\UMemoria.cpp</Transaction>
+    <Transaction>2021/01/09 14:40:51.799,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Conjuntos\UConjL.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\UConjL.cpp</Transaction>
+    <Transaction>2021/01/09 14:40:51.799,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Conjuntos\UConjL.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\UConjL.h</Transaction>
+    <Transaction>2021/01/09 14:54:01.026,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Unit1.cpp</Transaction>
+    <Transaction>2021/01/09 14:54:07.547,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\UConjV.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Unit1.h</Transaction>
+    <Transaction>2021/01/09 14:54:07.547,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\UConjV.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Unit1.cpp</Transaction>
+    <Transaction>2021/01/09 14:54:16.541,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Conjuntos\UConjV.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\UConjV.cpp</Transaction>
+    <Transaction>2021/01/09 14:54:16.541,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Conjuntos\UConjV.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\UConjV.h</Transaction>
+    <Transaction>2021/01/09 15:16:35.695,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Unit1.cpp</Transaction>
+    <Transaction>2021/01/09 15:16:43.047,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\UConjP.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Unit1.cpp</Transaction>
+    <Transaction>2021/01/09 15:16:43.047,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\UConjP.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Unit1.h</Transaction>
+    <Transaction>2021/01/09 15:16:49.647,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Conjuntos\UConjP.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\UConjP.h</Transaction>
+    <Transaction>2021/01/09 15:16:49.647,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Conjuntos\UConjP.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\UConjP.cpp</Transaction>
+    <Transaction>2021/01/09 15:53:08.731,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Unit1.cpp</Transaction>
+    <Transaction>2021/01/09 15:53:15.321,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\UConjS.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Unit1.h</Transaction>
+    <Transaction>2021/01/09 15:53:15.321,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\UConjS.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Unit1.cpp</Transaction>
+    <Transaction>2021/01/09 15:53:27.902,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Conjuntos\UConjS.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\UConjS.h</Transaction>
+    <Transaction>2021/01/09 15:53:27.902,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\Conjuntos\UConjS.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\4.Conjunto\UConjS.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

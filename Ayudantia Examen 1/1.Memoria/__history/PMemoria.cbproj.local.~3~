@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/01 22:47:00.000.947,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2020/12/01 22:47:00.000.815,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/12/01 22:47:35.000.063,C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\pc\Documents\Embarcadero\Studio\Projects\PMemoria.cbproj</Transaction>
+    <Transaction>2020/12/01 22:47:35.000.059,C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\pc\Documents\Embarcadero\Studio\Projects\PMemoriaPCH1.h</Transaction>
+    <Transaction>2020/12/01 22:48:23.000.633,C:\Users\pc\Documents\Embarcadero\Studio\Projects\File2.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\File2.cpp</Transaction>
+    <Transaction>2020/12/01 22:48:27.000.613,C:\Users\pc\Documents\Embarcadero\Studio\Projects\PMemoriaPCH1.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\PMemoriaPCH1.h</Transaction>
+    <Transaction>2020/12/01 22:48:30.000.622,C:\Users\pc\Documents\Embarcadero\Studio\Projects\PMemoria.cbproj=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\PMemoria.cbproj</Transaction>
+    <Transaction>2020/12/01 22:49:33.000.291,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\Unit1.cpp</Transaction>
+    <Transaction>2020/12/01 22:49:38.000.928,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\Unit1.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\UMemoeria.cpp</Transaction>
+    <Transaction>2020/12/01 22:49:38.000.928,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\Unit1.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\UMemoeria.h</Transaction>
+    <Transaction>2020/12/01 22:49:42.000.442,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\UMemoeria.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\UMemoria.cpp</Transaction>
+    <Transaction>2020/12/01 22:49:42.000.442,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\UMemoeria.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\UMemoria.h</Transaction>
+    <Transaction>2020/12/01 22:49:48.000.561,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\UMemoria.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\Clases\UMemoria.h</Transaction>
+    <Transaction>2020/12/01 22:49:48.000.561,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\UMemoria.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\Clases\UMemoria.cpp</Transaction>
+    <Transaction>2020/12/11 12:11:48.117,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\Unit1.cpp</Transaction>
+    <Transaction>2020/12/11 12:11:52.417,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\Funciones.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\Unit1.cpp</Transaction>
+    <Transaction>2020/12/11 12:11:52.417,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\Funciones.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\Unit1.h</Transaction>
+    <Transaction>2020/12/11 12:11:57.799,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\Funciones\Funciones.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\Funciones.h</Transaction>
+    <Transaction>2020/12/11 12:11:57.799,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\Funciones\Funciones.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\Funciones.cpp</Transaction>
+    <Transaction>2020/12/11 12:24:29.367,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\FMenu.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\1.Memoria\File2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

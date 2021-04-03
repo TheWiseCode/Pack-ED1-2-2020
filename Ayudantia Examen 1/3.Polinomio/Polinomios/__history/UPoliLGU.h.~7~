@@ -1,0 +1,31 @@
+// ---------------------------------------------------------------------------
+
+#ifndef UPoliLGUH
+#define UPoliLGUH
+// ---------------------------------------------------------------------------
+#include <iostream>
+#include <string>
+#include "Funciones.h"
+#include "UListaS.h"
+#include "UListaV.h"
+
+using namespace std;
+
+class PoliLGU {
+private:
+	ListaP* k;
+
+public:
+	PoliLGU();
+	bool esCero();
+	void poner_termino(int coef, int exp);
+	int coeficiente(int exp);
+	int exponente(int nro_termino);
+	int grado();
+	void suma(Polinomio p1, Polinomio &p2);
+	void resta(Polinomio p1, Polinomio &p2);
+	int numero_terminos();
+	void derivada();
+
+};
+#endif

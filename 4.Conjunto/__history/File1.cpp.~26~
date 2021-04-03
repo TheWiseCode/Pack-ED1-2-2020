@@ -1,0 +1,22 @@
+#include <iostream>
+#include "UConjL.h"
+#include "UConjV.h"
+#include "UConjP.h"
+#include "UConjS.h"
+
+using namespace std;
+
+int main() {
+	ConjuntoS* c = new ConjuntoS();
+	c->inserta(1);
+	c->inserta(2);
+	c->inserta(3);
+	cout << c->to_str() << endl;
+	c->inserta(3);
+	c->inserta(4);
+	cout << c->to_str() << endl;
+	c->suprime(2);
+	cout << c->to_str() << endl;
+	system("pause");
+	return 0;
+}

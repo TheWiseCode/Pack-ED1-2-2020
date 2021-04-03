@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/02/10 12:13:24.271,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/02/10 12:13:24.405,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2021/02/10 12:14:18.455,C:\Users\pc\Documents\Embarcadero\Studio\Projects\PPilaPCH1.h=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/02/10 12:14:18.459,C:\Users\pc\Documents\Embarcadero\Studio\Projects\PPila.cbproj=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2021/02/10 12:14:21.434,C:\Users\pc\Documents\Embarcadero\Studio\Projects\Main.cpp=C:\Users\pc\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2021/02/10 12:14:29.193,C:\Users\pc\Documents\Embarcadero\Studio\Projects\console.cpp=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Main.cpp</Transaction>
+    <Transaction>2021/02/10 12:14:42.617,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\console.cpp=C:\Users\pc\Documents\Embarcadero\Studio\Projects\console.cpp</Transaction>
+    <Transaction>2021/02/10 12:14:45.951,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\PPilaPCH1.h=C:\Users\pc\Documents\Embarcadero\Studio\Projects\PPilaPCH1.h</Transaction>
+    <Transaction>2021/02/10 12:14:47.546,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\PPila.cbproj=C:\Users\pc\Documents\Embarcadero\Studio\Projects\PPila.cbproj</Transaction>
+    <Transaction>2021/02/10 12:19:20.028,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Clases\Funciones.cpp</Transaction>
+    <Transaction>2021/02/10 12:19:20.053,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Clases\UMemoria.cpp</Transaction>
+    <Transaction>2021/02/10 12:19:25.830,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Listas\UListaP.cpp</Transaction>
+    <Transaction>2021/02/10 12:19:25.845,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Listas\UListaS.cpp</Transaction>
+    <Transaction>2021/02/10 12:19:25.858,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Listas\UListaV.cpp</Transaction>
+    <Transaction>2021/02/10 12:19:39.153,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Unit1.cpp</Transaction>
+    <Transaction>2021/02/10 12:19:43.075,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\UPilaL.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Unit1.h</Transaction>
+    <Transaction>2021/02/10 12:19:43.075,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\UPilaL.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Unit1.cpp</Transaction>
+    <Transaction>2021/02/10 12:19:47.554,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Unit1.cpp</Transaction>
+    <Transaction>2021/02/10 12:19:52.143,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\UPilaV.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Unit1.cpp</Transaction>
+    <Transaction>2021/02/10 12:19:52.144,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\UPilaV.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Unit1.h</Transaction>
+    <Transaction>2021/02/10 12:19:58.836,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Unit1.cpp</Transaction>
+    <Transaction>2021/02/10 12:20:03.216,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\UPilaP.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Unit1.cpp</Transaction>
+    <Transaction>2021/02/10 12:20:03.216,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\UPilaP.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Unit1.h</Transaction>
+    <Transaction>2021/02/10 12:20:07.975,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Unit1.cpp</Transaction>
+    <Transaction>2021/02/10 12:20:11.159,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\UPilaS.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Unit1.cpp</Transaction>
+    <Transaction>2021/02/10 12:20:11.159,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\UPilaS.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Unit1.h</Transaction>
+    <Transaction>2021/02/10 12:20:19.785,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Pilas\UPilaS.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\UPilaS.cpp</Transaction>
+    <Transaction>2021/02/10 12:20:19.785,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Pilas\UPilaS.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\UPilaS.h</Transaction>
+    <Transaction>2021/02/10 12:20:23.166,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Pilas\UPilaP.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\UPilaP.h</Transaction>
+    <Transaction>2021/02/10 12:20:23.166,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Pilas\UPilaP.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\UPilaP.cpp</Transaction>
+    <Transaction>2021/02/10 12:20:26.436,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Pilas\UPilaV.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\UPilaV.h</Transaction>
+    <Transaction>2021/02/10 12:20:26.436,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Pilas\UPilaV.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\UPilaV.cpp</Transaction>
+    <Transaction>2021/02/10 12:20:29.277,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Pilas\UPilaL.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\UPilaL.h</Transaction>
+    <Transaction>2021/02/10 12:20:29.277,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\Pilas\UPilaL.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\6.Pila\UPilaL.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

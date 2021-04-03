@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/11 22:59:05.000.192,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/12/11 22:59:05.000.277,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2020/12/11 22:59:37.000.179,C:\Users\pc\Documents\Embarcadero\Studio\Projects\File2.cpp=C:\Users\pc\Documents\Embarcadero\Studio\Projects\FMenu.cpp</Transaction>
+    <Transaction>2020/12/11 22:59:44.000.971,C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\pc\Documents\Embarcadero\Studio\Projects\PListas.cbproj</Transaction>
+    <Transaction>2020/12/11 22:59:44.000.923,C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\pc\Documents\Embarcadero\Studio\Projects\PListasPCH1.h</Transaction>
+    <Transaction>2020/12/11 22:59:56.000.607,C:\Users\pc\Documents\Embarcadero\Studio\Projects\FMenu.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\FMenu.cpp</Transaction>
+    <Transaction>2020/12/11 23:00:01.000.598,C:\Users\pc\Documents\Embarcadero\Studio\Projects\PListasPCH1.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\PListasPCH1.h</Transaction>
+    <Transaction>2020/12/11 23:00:04.000.310,C:\Users\pc\Documents\Embarcadero\Studio\Projects\PListas.cbproj=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\PListas.cbproj</Transaction>
+    <Transaction>2020/12/11 23:01:03.000.429,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\Unit1.cpp</Transaction>
+    <Transaction>2020/12/11 23:01:10.000.499,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\Unit1.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\UListaV.h</Transaction>
+    <Transaction>2020/12/11 23:01:10.000.499,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\Unit1.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\UListaV.cpp</Transaction>
+    <Transaction>2020/12/11 23:01:19.000.350,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\UListaV.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\Listas\UListaV.cpp</Transaction>
+    <Transaction>2020/12/11 23:01:19.000.350,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\UListaV.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\Listas\UListaV.h</Transaction>
+    <Transaction>2020/12/11 23:02:57.000.656,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\Clases\UMemoria.cpp</Transaction>
+    <Transaction>2020/12/11 23:02:57.000.636,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\Clases\Funciones.cpp</Transaction>
+    <Transaction>2020/12/11 23:50:09.000.751,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\Unit1.cpp</Transaction>
+    <Transaction>2020/12/11 23:50:15.000.589,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\Unit1.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\UListaP.h</Transaction>
+    <Transaction>2020/12/11 23:50:15.000.589,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\Unit1.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\UListaP.cpp</Transaction>
+    <Transaction>2020/12/11 23:50:21.000.933,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\UListaP.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\Listas\UListaP.cpp</Transaction>
+    <Transaction>2020/12/11 23:50:21.000.933,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\UListaP.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\Listas\UListaP.h</Transaction>
+    <Transaction>2020/12/13 17:30:42.000.350,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\Unit1.cpp</Transaction>
+    <Transaction>2020/12/13 17:30:49.000.512,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\UListaS.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\Unit1.h</Transaction>
+    <Transaction>2020/12/13 17:30:49.000.512,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\UListaS.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\Unit1.cpp</Transaction>
+    <Transaction>2020/12/13 17:31:06.000.140,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\Listas\UListaS.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\UListaS.cpp</Transaction>
+    <Transaction>2020/12/13 17:31:06.000.140,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\Listas\UListaS.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\UListaS.h</Transaction>
+    <Transaction>2020/12/14 22:40:32.494,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\Unit1.cpp</Transaction>
+    <Transaction>2020/12/14 22:40:38.238,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\UListas.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\Unit1.h</Transaction>
+    <Transaction>2020/12/14 22:40:38.238,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\UListas.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\Unit1.cpp</Transaction>
+    <Transaction>2020/12/14 22:40:48.861,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\ULista.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\UListas.h</Transaction>
+    <Transaction>2020/12/14 22:40:48.861,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\ULista.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\UListas.cpp</Transaction>
+    <Transaction>2020/12/14 22:40:56.476,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\Listas\ULista.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\ULista.h</Transaction>
+    <Transaction>2020/12/14 22:40:56.476,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\Listas\ULista.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\2.Listas\ULista.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

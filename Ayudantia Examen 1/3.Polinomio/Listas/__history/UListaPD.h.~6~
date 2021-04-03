@@ -1,0 +1,42 @@
+//---------------------------------------------------------------------------
+
+#ifndef UListaPDH
+#define UListaPDH
+//---------------------------------------------------------------------------
+#include <iostream>
+#include <string>
+#include "Funciones.h";
+
+using namespace std;
+
+struct NodoLD {
+	int elemento;
+	NodoL* sig;
+};
+
+class ListaP {
+private:
+	NodoL* ptr_elementos;
+	int longit;
+
+public:
+	ListaP();
+	NodoL* fin();
+	NodoL* primero();
+	NodoL* siguiente(NodoL* d);
+	NodoL* anterior(NodoL* d);
+	bool vacia();
+	int recupera(NodoL* d);
+	int longitud();
+	void inserta(NodoL* d, int e);
+	void inserta_primero(int e);
+	void inserta_ultimo(int e);
+	void suprime(NodoL* d);
+	void modifica(NodoL* d, int e);
+	string to_str();
+	NodoL* localiza(int e);
+	void elimina_dato(int e);
+	void anula();
+};
+
+#endif

@@ -1,0 +1,578 @@
+// ---------------------------------------------------------------------------
+
+#pragma hdrstop
+
+#include "ULista.h"
+// ---------------------------------------------------------------------------
+#pragma package(smart_init)
+
+ListV::ListV() {
+	this->longit = 0;
+	elementos = new int[MAXVe];
+}
+
+direccionI ListV::fin() {
+	if (!vacia())
+		return longit - 1;
+	else
+		cout << "ERROR: LISTA VACIA\n";
+}
+
+direccionI ListV::primero() {
+	if (!vacia())
+		return 0;
+	else
+		cout << "ERROR: LISTA VACIA\n";
+}
+
+direccionI ListV::siguiente(direccionI d) {
+	if (vacia())
+		cout << "ERROR: LISTA VACIA\n";
+	else {
+		if (d == longit - 1)
+			cout << "ERROR: DIRECCION ERRONEA\n";
+		else
+			return d + 1;
+	}
+}
+
+direccionI ListV::anterior(direccionI d) {
+	if (vacia())
+		cout << "ERROR: LISTA VACIA\n";
+	else {
+		if (d > 0 && d <= longit - 1)
+			return d - 1;
+		else
+			cout << "ERROR: DIRECCION ERRONEA\n";
+	}
+}
+
+bool ListV::vacia() {
+	return longit == 0;
+}
+
+int ListV::recupera(direccionI d) {
+	if (vacia())
+		cout << "ERROR: LISTA VACIA\n";
+	else {
+		if (d >= 0 && d <= longit - 1)
+			return elementos[d];
+		else
+			cout << "ERROR: DIRECCION ERRONEA\n";
+	}
+}
+
+int ListV::longitud() {
+	return longit;
+}
+
+void ListV::inserta(direccionI d, int e) {
+	if (longit == MAXVe) {
+		cout << "ERROR: LISTA LLENA\n";
+		return;
+	}
+	if (vacia()) {
+		elementos[0] = e;
+		longit++;
+		return;
+	}
+	if (d >= 0 && d <= longit - 1) {
+		for (int i = longit; i > d; i--)
+			elementos[i] = elementos[i - 1];
+		elementos[d] = e;
+		longit++;
+	}
+	else
+		cout << "ERROR: DIRECCION ERRONEA\n";
+}
+
+void ListV::inserta_primero(int e) {
+	if (longit == MAXVe) {
+		cout << "ERROR: LISTA LLENA\n";
+		return;
+	}
+	for (int i = longit; i > 0; i--)
+		elementos[i] = elementos[i - 1];
+	elementos[0] = e;
+	longit++;
+}
+
+void ListV::inserta_ultimo(int e) {
+	if (longit == MAXVe)
+		cout << "ERROR: LISTA LLENA\n";
+	else {
+		elementos[longit] = e;
+		longit++;
+	}
+}
+
+void ListV::suprime(direccionI d) {
+	if (longit == 0) {
+		cout << "ERROR: LISTA VACIA\n";
+		return;
+	}
+	if (d >= 0 && d <= longit - 1) {
+		for (int i = d; i < longit - 1; i++)
+			elementos[i] = elementos[i + 1];
+		longit--;
+	}
+	else
+		cout << "ERROR: DIRECCION ERRONEA\n";
+}
+
+void ListV::modifica(direccionI d, int e) {
+	if (longit == 0) {
+		cout << "ERROR: LISTA VACIA\n";
+		return;
+	}
+	if (d >= 0 && d <= longit - 1)
+		elementos[d] = e;
+	else
+		cout << "ERROR: DIRECCION ERRONEA\n";
+}
+
+string ListV::to_str() {
+	string s = "[";
+	for (int i = 0; i < longit; i++) {
+		s += to_string(elementos[i]);
+		if (i < longit - 1)
+			s += ",";
+	}
+	return s + "]";
+}
+
+direccionI ListV::localiza(int e) {
+	for (int i = 0; i < longit; i++) {
+		if (elementos[i] == e)
+			return i;
+	}
+	return -1;
+}
+
+void ListV::elimina_dato(int e) {
+	int i = 0;
+	while (i < longit) {
+		if (elementos[i] == e)
+			suprime(i);
+		else
+			i++;
+	}
+}
+
+void ListV::anula() {
+	longit = 0;
+}
+
+ListP::ListP() {
+	ptr_elementos = NULL;
+	longit = 0;
+}
+
+direccionPtr ListP::fin() {
+	if (vacia())
+		cout << "ERROR: LISTA VACIA\n";
+	else {
+		direccionPtr x = ptr_elementos;
+		direccionPtr ptr_fin;
+		while (x != NULL) {
+			ptr_fin = x;
+			x = x->sig;
+		}
+		return ptr_fin;
+	}
+}
+
+direccionPtr ListP::primero() {
+	if (!vacia())
+		return ptr_elementos;
+	else
+		cout << "ERROR: LISTA VACIA\n";
+}
+
+direccionPtr ListP::siguiente(direccionPtr d) {
+	if (vacia())
+		cout << "ERROR: LISTA VACIA\n";
+	else {
+		if (d == fin())
+			cout << "ERROR: DIRECCION ERRONEA\n";
+		else
+			return d->sig;
+	}
+}
+
+direccionPtr ListP::anterior(direccionPtr d) {
+	if (vacia())
+		cout << "ERROR: LISTA VACIA\n";
+	else {
+		if (d == primero())
+			cout << "ERROR: DIRECCION ERRONEA\n";
+		else {
+			direccionPtr x = ptr_elementos;
+			direccionPtr ant = NULL;
+			while (x != NULL) {
+				if (x == d)
+					return ant;
+				ant = x;
+				x = x->sig;
+			}
+			return NULL;
+		}
+	}
+}
+
+bool ListP::vacia() {
+	return longit == 0;
+}
+
+int ListP::recupera(direccionPtr d) {
+	if (vacia())
+		cout << "ERROR: LISTA VACIA\n";
+	else
+		return d->elemento;
+}
+
+int ListP::longitud() {
+	return longit;
+}
+
+void ListP::inserta(direccionPtr d, int e) {
+	NodoLi* x = new NodoLi;
+	if (x != NULL) {
+		x->elemento = e;
+		x->sig = NULL;
+		if (vacia()) {
+			ptr_elementos = x;
+			longit = 1;
+		}
+		else {
+			longit++;
+			if (d == primero()) {
+				x->sig = d;
+				ptr_elementos = x;
+			}
+			else {
+				direccionPtr ant = anterior(d);
+				ant->sig = x;
+				x->sig = d;
+			}
+
+		}
+	}
+	else
+		cout << "ERROR: NO EXISTE ESPACIO DE MEMORIA\n";
+}
+
+void ListP::inserta_primero(int e) {
+	NodoLi* x = new NodoLi;
+	if (x != NULL) {
+		x->elemento = e;
+		x->sig = ptr_elementos;
+		ptr_elementos = x;
+		longit++;
+	}
+	else
+		cout << "ERROR: NO EXISTE ESPACIO DE MEMORIA\n";
+}
+
+void ListP::inserta_ultimo(int e) {
+	NodoLi* x = new NodoLi;
+	if (x != NULL) {
+		x->elemento = e;
+		x->sig = NULL;
+		if (vacia())
+			ptr_elementos = x;
+		else
+			fin()->sig = x;
+		longit++;
+	}
+	else
+		cout << "ERROR: NO EXISTE ESPACIO DE MEMORIA\n";
+}
+
+void ListP::suprime(direccionPtr d) {
+	if (longit == 0) {
+		cout << "ERROR: LISTA VACIA\n";
+		return;
+	}
+	if (d == ptr_elementos) {
+		direccionPtr x = ptr_elementos;
+		ptr_elementos = ptr_elementos->sig;
+		delete(x);
+	}
+	else {
+		direccionPtr ant = anterior(d);
+		ant->sig = d->sig;
+		delete(d);
+	}
+	longit--;
+}
+
+void ListP::modifica(direccionPtr d, int e) {
+	if (vacia())
+		cout << "ERROR: LISTA VACIA\n";
+	else
+		d->elemento = e;
+}
+
+/*
+ Recorrer con punteros
+ direccion aux = ptr_elementos;
+ while(aux != NULL){
+ aux = aux->sig;
+ }
+ */
+string ListP::to_str() {
+	string s = "[";
+	direccionPtr aux = ptr_elementos;
+	while (aux != NULL) {
+		int el = aux->elemento;
+		s += to_string(el);
+		aux = aux->sig;
+		if (aux != NULL)
+			s += ",";
+	}
+	return s + "]";
+}
+
+direccionPtr ListP::localiza(int e) {
+	direccionPtr aux = ptr_elementos;
+	while (aux != NULL) {
+		if (aux->elemento == e)
+			return aux;
+		aux = aux->sig;
+	}
+	return NULL;
+}
+
+void ListP::elimina_dato(int e) {
+	direccionPtr aux = ptr_elementos;
+	while (aux != NULL) {
+		if (aux->elemento == e) {
+			direccionPtr sup = aux;
+			aux = aux->sig;
+			suprime(sup);
+		}
+		else
+			aux = aux->sig;
+	}
+}
+
+void ListP::anula() {
+	ptr_elementos = NULL;
+	longit = 0;
+}
+
+ListS::ListS() {
+	ptr_elementos = NULO;
+	longit = 0;
+	mem = new CSMemoria();
+}
+
+ListS::ListS(CSMemoria* m) {
+	ptr_elementos = NULO;
+	longit = 0;
+	mem = m;
+}
+
+/*
+ Punto{ X, Y}; Punto a, b
+ a->X = valor;    Poner Dato             -->    mem->poner_dato(a, '->X', valor);
+ valor = a->X;    Obtener Dato           -->    mem->obtener_dato(a, '->X');
+ a->X = b->X;     Poner y Obtener Dato   :
+ 1ra Forma:
+ b_X = mem->obtener_dato(b, '->X');
+ mem->poner_dato(a, '->X', b_X);
+ 2da Forma:
+ mem->poner_dato(a, '->X', mem->obtener_dato(b, '->X'));
+ */
+int ListS::fin() {
+	if (vacia())
+		cout << "ERROR: LISTA VACIA\n";
+	else {
+		int x = ptr_elementos;
+		int ptr_fin;
+		while (x != NULO) {
+			ptr_fin = x;
+			x = mem->obtener_dato(x, sigNLi); // x->sig;
+		}
+		return ptr_fin;
+	}
+}
+
+int ListS::primero() {
+	if (!vacia())
+		return ptr_elementos;
+	else
+		cout << "ERROR: LISTA VACIA\n";
+}
+
+int ListS::siguiente(int d) {
+	if (vacia())
+		cout << "ERROR: LISTA VACIA\n";
+	else {
+		if (d == fin())
+			cout << "ERROR: DIRECCION ERRONEA\n";
+		else
+			return mem->obtener_dato(d, sigNLi); // d->sig;
+	}
+}
+
+int ListS::anterior(int d) {
+	if (vacia())
+		cout << "ERROR: LISTA VACIA\n";
+	else {
+		if (d == primero())
+			cout << "ERROR: DIRECCION ERRONEA\n";
+		else {
+			int x = ptr_elementos;
+			int ant = NULO;
+			while (x != NULO) {
+				if (x == d)
+					return ant;
+				ant = x;
+				x = mem->obtener_dato(x, sigNLi); // x->sig;
+			}
+			return NULL;
+		}
+	}
+}
+
+bool ListS::vacia() {
+	return longit == 0;
+}
+
+int ListS::recupera(int d) {
+	if (vacia())
+		cout << "ERROR: LISTA VACIA\n";
+	else
+		return mem->obtener_dato(d, elemNLi); // d->elemento;
+}
+
+int ListS::longitud() {
+	return longit;
+}
+
+// new Nodo;     mem->new_espacio("elemento,sig"); mem->new_espacio(datosNLi);
+void ListS::inserta(int d, int e) {
+	int x = mem->new_espacio(datosNLi); // NodoLi* x = new NodoLi;
+	if (x != NULO) {
+		mem->poner_dato(x, elemNLi, e); // x->elemento = e;
+		mem->poner_dato(x, sigNLi, NULO); // x->sig = NULL;
+		if (vacia()) {
+			ptr_elementos = x;
+			longit = 1;
+		}
+		else {
+			longit++;
+			if (d == primero()) {
+				mem->poner_dato(x, sigNLi, d); // x->sig = d;
+				ptr_elementos = x;
+			}
+			else {
+				int ant = anterior(d);
+				mem->poner_dato(ant, sigNLi, x); // ant->sig = x;
+				mem->poner_dato(x, sigNLi, d); // x->sig = d;
+			}
+
+		}
+	}
+	else
+		cout << "ERROR: NO EXISTE ESPACIO DE MEMORIA\n";
+}
+
+void ListS::inserta_primero(int e) {
+	int x = mem->new_espacio(datosNLi); // NodoLi* x = new NodoLi;
+	if (x != NULO) {
+		mem->poner_dato(x, elemNLi, e); // x->elemento = e;
+		mem->poner_dato(x, sigNLi, ptr_elementos); // x->sig = ptr_elementos
+		ptr_elementos = x;
+		longit++;
+	}
+	else
+		cout << "ERROR: NO EXISTE ESPACIO DE MEMORIA\n";
+}
+
+void ListS::inserta_ultimo(int e) {
+	int x = mem->new_espacio(datosNLi); // NodoLi* x = new NodoLi;
+	if (x != NULO) {
+		mem->poner_dato(x, elemNLi, e); // x->elemento = e;
+		mem->poner_dato(x, sigNLi, NULO); // x->sig = NULL;
+		if (vacia())
+			ptr_elementos = x;
+		else
+			mem->poner_dato(fin(), sigNLi, x); // fin()->sig = x;
+		longit++;
+	}
+	else
+		cout << "ERROR: NO EXISTE ESPACIO DE MEMORIA\n";
+}
+
+// delete(x)     ->  mem->delete_espacio(x);
+void ListS::suprime(int d) {
+	if (longit == 0) {
+		cout << "ERROR: LISTA VACIA\n";
+		return;
+	}
+	if (d == ptr_elementos) {
+		int x = ptr_elementos;
+		ptr_elementos = mem->obtener_dato(ptr_elementos, sigNLi);
+		// ptr_elementos->sig;
+		mem->delete_espacio(x); // delete(x);
+	}
+	else {
+		int ant = anterior(d);
+		mem->poner_dato(ant, sigNLi, mem->obtener_dato(d, sigNLi));
+		// ant->sig = d->sig;
+		mem->delete_espacio(d); // delete(d);
+	}
+	longit--;
+}
+
+void ListS::modifica(int d, int e) {
+	if (vacia())
+		cout << "ERROR: LISTA VACIA\n";
+	else
+		mem->poner_dato(d, elemNLi, e); // d->elemento = e;
+}
+
+string ListS::to_str() {
+	// mem->mostrar();
+	string s = "[";
+	int aux = ptr_elementos;
+	while (aux != NULO) {
+		int el = mem->obtener_dato(aux, elemNLi); // aux->elemento
+		s += to_string(el);
+		aux = mem->obtener_dato(aux, sigNLi); // aux->sig;
+		if (aux != NULO)
+			s += ",";
+	}
+	return s + "]";
+}
+
+int ListS::localiza(int e) {
+	int aux = ptr_elementos;
+	while (aux != NULO) {
+		if (mem->obtener_dato(aux, elemNLi) == e)
+			return aux;
+		aux = mem->obtener_dato(aux, sigNLi); // aux->sig;
+	}
+	return NULO;
+}
+
+void ListS::elimina_dato(int e) {
+	int aux = ptr_elementos;
+	while (aux != NULO) {
+		if (mem->obtener_dato(aux, elemNLi) == e) {
+			int sup = aux;
+			aux = mem->obtener_dato(aux, sigNLi); // aux->sig;
+			suprime(sup);
+		}
+		else
+			aux = mem->obtener_dato(aux, sigNLi); // aux->sig;
+	}
+}
+
+void ListS::anula() {
+	ptr_elementos = NULO;
+	longit = 0;
+}

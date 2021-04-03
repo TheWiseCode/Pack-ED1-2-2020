@@ -1,0 +1,47 @@
+// ---------------------------------------------------------------------------
+
+#pragma hdrstop
+
+#include "UPilaDi.h"
+// ---------------------------------------------------------------------------
+#pragma package(smart_init)
+
+PilaDi::PilaDi() {
+	KCIAA = new DicolaV3();
+}
+
+bool PilaDi::vacia() {
+	return KCIAA->vacia();
+}
+
+void PilaDi::meter(int e) {
+	KCIAA->poner_frente(e);
+}
+
+void PilaDi::sacar(int& e) {
+	if (!vacia())
+		KCIAA->sacar(e);
+}
+
+int PilaDi::cima() {
+	if (!vacia())
+		return KCIAA->primero();
+}
+
+string PilaDi::to_str() {
+	string r = "";
+	PilaDi* aux = new PilaDi();
+	while (!vacia()) {
+		int e;
+		sacar(e);
+		r += "| " + to_string(e) + " |\n";
+		aux->meter(e);
+	}
+	while (!aux->vacia()) {
+		int e;
+		aux->sacar(e);
+		meter(e);
+	}
+	r += "+---+\n";
+	return r;
+}

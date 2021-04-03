@@ -1,0 +1,23 @@
+// ---------------------------------------------------------------------------
+
+#ifndef UPilaDiH
+#define UPilaDiH
+// ---------------------------------------------------------------------------
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+class PilaDi {
+private:
+
+public:
+	PilaV();
+	bool vacia();
+	void meter(int e);
+	void sacar(int& e);
+	int cima();
+	string to_str();
+};
+
+#endif

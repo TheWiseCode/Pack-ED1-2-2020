@@ -1,0 +1,32 @@
+//---------------------------------------------------------------------------
+
+#ifndef UMatrizLH
+#define UMatrizLH
+//---------------------------------------------------------------------------
+#include <iostream>
+#include <string>
+#include "Funciones.h"
+#include "UListaP.h"
+
+using namespace std;
+
+class MatrizPC{
+    private:
+        NodoMC* ptrMatD;
+		int repe, df, dc;
+		int nt;
+
+        NodoMC* buscar(int f, int c);
+    public:
+        MatrizPC();
+        void dimensionar(int f,int c);
+        int dimension_fila();
+        int dimension_columna();
+        void poner(int f, int c, int valor);
+        int elemento(int f, int c);
+        void definir_valor_repetido(int valor);
+        string to_str();
+
+};
+
+#endif

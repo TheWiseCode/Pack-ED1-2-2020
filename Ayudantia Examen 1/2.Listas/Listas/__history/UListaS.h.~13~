@@ -1,0 +1,43 @@
+// ---------------------------------------------------------------------------
+
+#ifndef UListaSH
+#define UListaSH
+// ---------------------------------------------------------------------------
+#include <iostream>
+#include <string>
+#include "Funciones.h"
+#include "UMemoria.h"
+
+using namespace std;
+
+struct NodoL {
+	int elemento;
+	NodoL* sig;
+};
+const string datosNL = "elemento,sig";
+const string elemNL = "->elemento";
+const string sigNL = "->sig;
+
+class ListaS {
+private:
+	int ptr_elementos;
+	int longit;
+	CSMemoria* mem;
+
+public:
+	ListaS();
+	int fin();
+	int primero();
+	int siguiente(int d);
+	int anterior(int d);
+	bool vacia();
+	int recupera(int d);
+	int longitud();
+	void inserta(int d, int e);
+	void inserta_primero(int e);
+	void inserta_ultimo(int e);
+	void suprime(int d);
+	void modifica(int d, int e);
+	string to_str();
+};
+#endif

@@ -1,0 +1,14 @@
+//---------------------------------------------------------------------------
+
+#ifndef FuncionesH
+#define FuncionesH
+//---------------------------------------------------------------------------
+
+string to_string(int valor){
+
+}
+
+string repetir(unsigned int cantidad,char caracter){
+
+}
+#endif

@@ -1,0 +1,25 @@
+// ---------------------------------------------------------------------------
+
+#pragma hdrstop
+
+#include "UColaStr.h"
+// ---------------------------------------------------------------------------
+#pragma package(smart_init)
+
+ColaStr::ColaStr() {
+}
+
+bool ColaStr::vacia() {
+}
+
+void ColaStr::poner(int e) {
+}
+
+void ColaStr::sacar(int &e) {
+}
+
+int ColaStr::primero() {
+}
+
+string ColaStr::to_str() {
+}

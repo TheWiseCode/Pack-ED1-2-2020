@@ -1,0 +1,28 @@
+// ---------------------------------------------------------------------------
+
+#ifndef UListaPH
+#define UListaPH
+// ---------------------------------------------------------------------------
+#include <iostream>
+#include <string>
+#include "Funciones.h";
+
+using namespace std;
+
+struct NodoL {
+	int elemento;
+	NodoL* sig;
+};
+
+typedef NodoL* direccionP;
+
+class ListaP {
+private:
+	direccionP ptr_elementos;
+	int longit;
+
+public:
+
+};
+
+#endif

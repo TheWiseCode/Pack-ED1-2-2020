@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/29 18:03:13.000.249,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/01/29 18:03:13.000.423,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2021/01/29 18:03:21.000.246,C:\Users\pc\Documents\Embarcadero\Studio\Projects\PMatrices.cbproj=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2021/01/29 18:03:21.000.222,C:\Users\pc\Documents\Embarcadero\Studio\Projects\PMatricesPCH1.h=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/01/29 18:04:11.000.378,C:\Users\pc\Documents\Embarcadero\Studio\Projects\FMain.cpp=C:\Users\pc\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2021/01/29 18:04:43.000.466,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\FMain.cpp=C:\Users\pc\Documents\Embarcadero\Studio\Projects\FMain.cpp</Transaction>
+    <Transaction>2021/01/29 18:04:46.000.336,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\PMatricesPCH1.h=C:\Users\pc\Documents\Embarcadero\Studio\Projects\PMatricesPCH1.h</Transaction>
+    <Transaction>2021/01/29 18:04:48.000.974,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\PMatrices.cbproj=C:\Users\pc\Documents\Embarcadero\Studio\Projects\PMatrices.cbproj</Transaction>
+    <Transaction>2021/01/29 18:07:37.000.328,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Unit1.cpp</Transaction>
+    <Transaction>2021/01/29 18:07:42.000.622,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizV.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Unit1.h</Transaction>
+    <Transaction>2021/01/29 18:07:42.000.622,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizV.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Unit1.cpp</Transaction>
+    <Transaction>2021/01/29 18:07:48.000.221,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Matrices\UMatrizV.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizV.h</Transaction>
+    <Transaction>2021/01/29 18:07:48.000.221,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Matrices\UMatrizV.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizV.cpp</Transaction>
+    <Transaction>2021/01/29 18:07:54.000.858,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Clases\Funciones.cpp</Transaction>
+    <Transaction>2021/01/29 18:07:54.000.925,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Clases\UMemoria.cpp</Transaction>
+    <Transaction>2021/01/29 18:11:56.000.036,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Unit1.cpp</Transaction>
+    <Transaction>2021/01/29 18:12:06.000.914,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizVC.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Unit1.cpp</Transaction>
+    <Transaction>2021/01/29 18:12:06.000.914,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizVC.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Unit1.h</Transaction>
+    <Transaction>2021/01/29 18:12:12.000.889,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Unit1.cpp</Transaction>
+    <Transaction>2021/01/29 18:12:25.000.583,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizPtr.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Unit1.h</Transaction>
+    <Transaction>2021/01/29 18:12:25.000.583,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizPtr.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Unit1.cpp</Transaction>
+    <Transaction>2021/01/29 18:12:29.000.893,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Unit1.cpp</Transaction>
+    <Transaction>2021/01/29 18:12:36.000.810,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizPtrDb.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Unit1.h</Transaction>
+    <Transaction>2021/01/29 18:12:36.000.810,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizPtrDb.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Unit1.cpp</Transaction>
+    <Transaction>2021/01/29 18:12:41.000.185,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Unit1.cpp</Transaction>
+    <Transaction>2021/01/29 18:12:45.000.914,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizSm.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Unit1.cpp</Transaction>
+    <Transaction>2021/01/29 18:12:45.000.914,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizSm.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Unit1.h</Transaction>
+    <Transaction>2021/01/29 18:12:49.000.697,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Unit1.cpp</Transaction>
+    <Transaction>2021/01/29 18:12:57.000.136,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizSmDb.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Unit1.h</Transaction>
+    <Transaction>2021/01/29 18:12:57.000.136,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizSmDb.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Unit1.cpp</Transaction>
+    <Transaction>2021/01/29 18:13:03.000.778,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Matrices\UMatrizSmDb.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizSmDb.h</Transaction>
+    <Transaction>2021/01/29 18:13:03.000.778,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Matrices\UMatrizSmDb.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizSmDb.cpp</Transaction>
+    <Transaction>2021/01/29 18:13:09.000.069,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Matrices\UMatrizSm.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizSm.h</Transaction>
+    <Transaction>2021/01/29 18:13:09.000.069,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Matrices\UMatrizSm.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizSm.cpp</Transaction>
+    <Transaction>2021/01/29 18:13:12.000.464,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Matrices\UMatrizPtrDb.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizPtrDb.cpp</Transaction>
+    <Transaction>2021/01/29 18:13:12.000.464,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Matrices\UMatrizPtrDb.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizPtrDb.h</Transaction>
+    <Transaction>2021/01/29 18:13:16.000.113,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Matrices\UMatrizPtr.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizPtr.cpp</Transaction>
+    <Transaction>2021/01/29 18:13:16.000.113,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Matrices\UMatrizPtr.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizPtr.h</Transaction>
+    <Transaction>2021/01/29 18:13:20.000.036,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Matrices\UMatrizVC.h=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizVC.h</Transaction>
+    <Transaction>2021/01/29 18:13:20.000.036,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\Matrices\UMatrizVC.cpp=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\5.Matriz\UMatrizVC.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

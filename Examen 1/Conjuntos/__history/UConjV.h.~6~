@@ -1,0 +1,30 @@
+//---------------------------------------------------------------------------
+
+#ifndef UConjVH
+#define UConjVH
+//---------------------------------------------------------------------------
+#include <iostream>
+#include <string>
+#include "UListaP.h"
+
+#include <stdlib.h>
+#include <time.h>
+
+using namespace std;
+
+class ConjuntoV{
+	private:
+		int* v;
+		int cant;
+	public:
+		ConjuntoV();
+		bool vacio();
+		bool pertenece(int e);
+		void inserta(int e);
+		int cardinal();
+		int ordinal(int e);
+		void suprime(int e);
+		int muestrea();
+		string to_str();
+ };
+#endif

@@ -1,0 +1,18 @@
+#include <iostream>
+#include "UConjL.h"
+#include "UConjV.h"
+#include "UConjP.h"
+#include "UConjS.h"
+
+using namespace std;
+
+int main() {
+	ConjuntoS* c = new ConjuntoS();
+	for (int i = 1; i <= 10; i++)
+		c->inserta(i);
+	cout << c->to_str() << endl;
+	for (int i = 1; i <= 10; i++)
+		cout << c->muestrea() << endl;
+	system("pause");
+	return 0;
+}

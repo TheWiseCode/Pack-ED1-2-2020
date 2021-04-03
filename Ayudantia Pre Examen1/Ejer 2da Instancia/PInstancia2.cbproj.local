@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/01/20 23:24:02.934,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/01/20 23:24:03.024,=C:\Users\pc\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2021/01/20 23:24:51.326,C:\Users\pc\Documents\Embarcadero\Studio\Projects\File.cpp=C:\Users\pc\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2021/01/20 23:25:10.216,C:\Users\pc\Documents\Embarcadero\Studio\Projects\PInstancia2PCH1.h=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/01/20 23:25:10.219,C:\Users\pc\Documents\Embarcadero\Studio\Projects\PInstancia2.cbproj=C:\Users\pc\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2021/01/20 23:25:47.623,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Ayudantia Pre Examen1\Ejer 2da Instancia\File.cpp=C:\Users\pc\Documents\Embarcadero\Studio\Projects\File.cpp</Transaction>
+    <Transaction>2021/01/20 23:25:51.437,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Ayudantia Pre Examen1\Ejer 2da Instancia\PInstancia2PCH1.h=C:\Users\pc\Documents\Embarcadero\Studio\Projects\PInstancia2PCH1.h</Transaction>
+    <Transaction>2021/01/20 23:25:54.563,C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Ayudantia Pre Examen1\Ejer 2da Instancia\PInstancia2.cbproj=C:\Users\pc\Documents\Embarcadero\Studio\Projects\PInstancia2.cbproj</Transaction>
+    <Transaction>2021/01/20 23:28:31.790,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Ayudantia Pre Examen1\Ejer 2da Instancia\Clases\Funciones.cpp</Transaction>
+    <Transaction>2021/01/20 23:28:37.551,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Ayudantia Pre Examen1\Ejer 2da Instancia\Listas\UListaP.cpp</Transaction>
+    <Transaction>2021/01/20 23:28:43.314,=C:\Users\pc\Desktop\ED1 Winni 2-2020\Auxiliaturas\Ayudantia Pre Examen1\Ejer 2da Instancia\Polinomios\UPoliLP.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,41 @@
+// ---------------------------------------------------------------------------
+
+#ifndef UListaPH
+#define UListaPH
+// ---------------------------------------------------------------------------
+#include <iostream>
+#include <string>
+#include "Funciones.h";
+
+using namespace std;
+
+struct NodoL {
+	int elemento;
+	NodoL* sig;
+};
+
+typedef NodoL* direccionP;
+
+class ListaP {
+private:
+	direccionP ptr_elementos;
+	int longi;
+
+public:
+	ListaP();
+	direccionI fin();
+	direccionI primero();
+	direccionI siguiente(direccionI d);
+	direccionI anterior(direccionI d);
+	bool vacia();
+	int recupera(direccionI d);
+	int longitud();
+	void inserta(direccionI d, int e);
+	void inserta_primero(int e);
+	void inserta_ultimo(int e);
+	void suprime(direccionI d);
+	void modifica(direccionI d, int e);
+	string to_str();
+};
+
+#endif

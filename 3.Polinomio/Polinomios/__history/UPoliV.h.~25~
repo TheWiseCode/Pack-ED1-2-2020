@@ -1,0 +1,49 @@
+// ---------------------------------------------------------------------------
+
+#ifndef UPoliVH
+#define UPoliVH
+// ---------------------------------------------------------------------------
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+/*
+
+ Metodos
+ crea ()
+ EsCero() devuelve (booleano)
+ Grado()devuelve (Grado del Polinomio)
+ coeficiente ( Exp : Entero) devuelve (Coeficiente de Termino)
+ AsignarCoeficiente (coef,exp: Entero)
+ poner_termino( coef, exp : entero)
+ numero_terminos() devuelve (Nro. Terminos)
+ exponente ( nroter: entero) devuelve (Grado)
+ sumar(P1, P2: Polinomio)
+ restar(P1, P2: Polinomio)
+ multiplicar (P1, P2: Polinomio)
+ fin definición clase */
+const int MAXP = 100;
+
+class PoliV {
+private:
+	int* vc; // int vc[MAXP];
+	int* ve; // int ve[MAXP];
+	int nt;
+
+public:
+	PoliV();
+	bool es_cero();
+	int grado();
+	int coefieciente(int exp);
+	void asignar_coeficiente(int coef, int exp);
+	void poner_termino(int coef, int exp);
+	int numero_terminos();
+	int exponente(int nro);
+	void sumar(PoliPtr* p1, PoliPtr* p2, PoliPtr* pr);
+	void restar(PoliPtr* p1, PoliPtr* p2, PoliPtr* pr);
+	void multiplicar(PoliPtr* p1, PoliPtr* p2, PoliPtr* pr);
+	string to_str();
+};
+
+#endif
